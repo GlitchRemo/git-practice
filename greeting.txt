@@ -7,4 +7,7 @@ Ready for another conflict?
 This is another line
 This is another line.This is my new line
 I want to do a conflict
-Hello world
+Yes.
+This is another line
+Yes.
+This is another line
