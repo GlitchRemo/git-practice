@@ -2,4 +2,6 @@ Hello
 How are you?
 This is a new line. We want conflict
 This is a new line.I want to keep this part.
+
+Ready for another conflict?
 This is another line
