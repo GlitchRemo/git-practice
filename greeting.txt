@@ -6,3 +6,4 @@ This is a new line.I want to keep this part.
 Ready for another conflict?
 Yes.
 This is another line
+Hello world
