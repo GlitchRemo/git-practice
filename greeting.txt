@@ -5,3 +5,5 @@ This is a new line.I want to keep this part.
 
 Ready for another conflict?
 This is another line
+This is another line.This is my new line
+I want to do a conflict
