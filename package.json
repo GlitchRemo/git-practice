@@ -1,0 +1,23 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node main.js",
+    "dev": "node --watch main.js",
+    "coverage": "nyc node --test",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "nyc": "^15.1.0"
+  }
+}
